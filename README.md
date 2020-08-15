@@ -2,7 +2,7 @@
 ![hello](https://user-images.githubusercontent.com/46066018/90307442-c31b8000-def3-11ea-8e1d-6e880cf04de0.gif)
 
 
-![9003523926](https://user-images.githubusercontent.com/46066018/90307510-64a2d180-def4-11ea-86cb-d33eaede8795.png)
+
 
 <!--
 **Riopradheep007/Riopradheep007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
