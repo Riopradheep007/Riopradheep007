@@ -25,7 +25,7 @@
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I am a self-driven, self-taught  and highly motivated young Machine Learning Practitioner, passionate  to solve real world problems.Every day I have
+I am a self-driven, self-taught  and highly motivated young passionate Data Scientist, passionate  to solve real world problems.Every day I have
 done samll things rightly and consistently keep me  updated with new technology.
 <br/>
 
