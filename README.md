@@ -1,6 +1,10 @@
 ### Hi there 👋
 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/46066018/106383154-44a39380-63ea-11eb-8d10-727cf70f62bd.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/46066018/106383154-44a39380-63ea-11eb-8d10-727cf70f62bd.gif?raw=true" width="400" height="320" />
+
+
+
+
 
 
 
