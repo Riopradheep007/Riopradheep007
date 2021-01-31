@@ -1,6 +1,7 @@
 ### Hi there 👋
-![hello](https://user-images.githubusercontent.com/46066018/90307442-c31b8000-def3-11ea-8e1d-6e880cf04de0.gif)
+"""![hello](https://user-images.githubusercontent.com/46066018/90307442-c31b8000-def3-11ea-8e1d-6e880cf04de0.gif)"""
 
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/46066018/106383154-44a39380-63ea-11eb-8d10-727cf70f62bd.gif?raw=true" width="500" height="320" />
 
 
 
