@@ -13,6 +13,12 @@
 
 - 🌱 I’m currently learning from **kaggle**...
 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning & Data Science
+  - 🔤 DeepLearning
+  - 🖼 Computer Vision
+  - 🤖 Natural Language Processing
+
 - 👯 I'm open for collaborations in **Data Science** and **Machine Learning** domains..
 
 - 💻 I'm looking for an **internship** in **DataScience** domain..
