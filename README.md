@@ -29,6 +29,32 @@ I am a self-driven, self-taught  and highly motivated young Machine Learning Pra
 done samll things rightly and consistently keep me  updated with new technology.
 <br/>
 
+
+
+### 📫 How to reach me...
+<p align="center">
+<a href="mailto:pradheep1341@gmail.com">
+         <img alt="Qries" src="https://www.freeiconspng.com/uploads/gmail-icon-23.png"
+         width="50" height="50">
+      </a>   
+ 
+ 
+<a href="https://www.linkedin.com/in/pradheep-m-24510a173/">
+         <img alt="Qries" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2662666-2213265.png"
+         width="50" height="50">
+      </a>
+
+
+
+
+<a href="https://www.kaggle.com/pradheeprio">
+         <img alt="Qries" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/189_Kaggle_logo_logos-512.png"
+         width="50" height="45">
+      </a>  
+</p>
+
+
+
 ## 👨‍💻 I can code in...
 <p align="center">
  
