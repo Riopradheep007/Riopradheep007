@@ -1,7 +1,7 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there!, I am <a href="https://github.com/abhinand5">Pradheep</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there!, I am <a href="https://github.com/Riopradheep007">Pradheep</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/46066018/106383154-44a39380-63ea-11eb-8d10-727cf70f62bd.gif?raw=true" width="400" height="320" />
+ <img align="right" src="![github](https://user-images.githubusercontent.com/46066018/108600672-66c37c80-73be-11eb-8808-39494dba9955.jpeg)" width="400" height="320" />
 
 
 
