@@ -30,7 +30,7 @@
 
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-   An independent and self-motivated student with proven ability and experienced in developing web application using full stack and Data Science projects with <b>DataStructures and algorithm<b>.
+   An independent and self-motivated student with proven ability and experienced in developing web application using Flask and Data Science projects with <b>DataStructures and algorithm<b>.
 <br/>
 
 
