@@ -1,7 +1,7 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there!, I am <a href="https://github.com/Riopradheep007">Pradheep</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
- <img align="right" alt="png" src="https://user-images.githubusercontent.com/46066018/119472217-ac9a3300-bd67-11eb-8366-ed06d1b91377.png" width="400" height="320" />
+ <img align="right" alt="png" src="https://user-images.githubusercontent.com/46066018/119472217-ac9a3300-bd67-11eb-8366-ed06d1b91377.png" width="450" height="400" />
 
 
 
