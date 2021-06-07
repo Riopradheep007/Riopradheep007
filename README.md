@@ -1,7 +1,9 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there!, I am <a href="https://github.com/Riopradheep007">Pradheep</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
- <img align="right" alt="png" src="https://user-images.githubusercontent.com/46066018/120946267-860dcc00-c759-11eb-8b23-91f73d77fbab.png" width="500" height="500" />
+
+
+ <img align="right" alt="png" src="https://user-images.githubusercontent.com/46066018/120946487-54493500-c75a-11eb-81ae-801c8290e99e.png" width="500" height="500" />
 
 
 - 🔭 I’m currently pursuing **Bachelors in Computer Science and Engineering (Third Year)** from Kpr institute of engineering and technology at coimbatore.
