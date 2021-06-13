@@ -3,7 +3,7 @@
 
 
 
- <img align="right" alt="png" src="https://user-images.githubusercontent.com/46066018/120946487-54493500-c75a-11eb-81ae-801c8290e99e.png" width="500" height="500" />
+ <img align="right" alt="png" src="https://user-images.githubusercontent.com/46066018/121811092-d963ab00-cc80-11eb-850f-fe900240a1c0.png" width="450" height="410" />
 
 
 - 🔭 I’m currently pursuing **Bachelors in Computer Science and Engineering (Third Year)** from Kpr institute of engineering and technology at coimbatore.
