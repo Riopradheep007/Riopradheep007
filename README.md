@@ -43,7 +43,7 @@
  
 <a href="https://www.linkedin.com/in/pradheep-m-24510a173/">
          <img alt="Qries" src="https://user-images.githubusercontent.com/46066018/121810046-de266000-cc7c-11eb-92c9-934830c93674.png"
-         width="50" height="50">
+         width="50" height="45">
       </a>
 
 
@@ -51,7 +51,7 @@
 
 <a href="https://www.kaggle.com/pradheeprio">
          <img alt="Qries" src="https://user-images.githubusercontent.com/46066018/121810354-285c1100-cc7e-11eb-9b28-3aad5280514e.jpg"
-         width="50" height="50">
+         width="50" height="45">
       </a>  
 </p>
 
