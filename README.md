@@ -50,8 +50,8 @@
 
 
 <a href="https://www.kaggle.com/pradheeprio">
-         <img alt="Qries" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/189_Kaggle_logo_logos-512.png"
-         width="50" height="45">
+         <img alt="Qries" src="https://user-images.githubusercontent.com/46066018/121810354-285c1100-cc7e-11eb-9b28-3aad5280514e.jpg"
+         width="50" height="50">
       </a>  
 </p>
 
