@@ -35,7 +35,7 @@
 ### 📫 How to reach me...
 <p align="center">
 <a href="mailto:pradheep1341@gmail.com">
-         <img alt="Qries" src="https://www.freeiconspng.com/uploads/gmail-icon-23.png"
+         <img alt="Qries" src="https://user-images.githubusercontent.com/46066018/121809805-ec27b100-cc7b-11eb-9422-b9bfeffa724e.png"
          width="50" height="50">
       </a>   
  
