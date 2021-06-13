@@ -40,8 +40,9 @@
       </a>   
  
  
+ 
 <a href="https://www.linkedin.com/in/pradheep-m-24510a173/">
-         <img alt="Qries" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2662666-2213265.png"
+         <img alt="Qries" src="https://user-images.githubusercontent.com/46066018/121810046-de266000-cc7c-11eb-92c9-934830c93674.png"
          width="50" height="50">
       </a>
 
