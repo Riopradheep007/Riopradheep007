@@ -65,6 +65,8 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top; margin:4px">
 </p>
 
+</details>
+
 
 
 ##  🤹 Skill Zone
@@ -76,3 +78,10 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Linux-black?&style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
+
+ 
+ ## 📈 My Stats
+<p align='center' >
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Riopradheep007&show_icons=true&theme=dark" width=420/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riopradheep007&layout=compact&theme=dark">
+<p/>
