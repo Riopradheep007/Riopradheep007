@@ -73,7 +73,7 @@
 ##  🤹 Skill Zone
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
- <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-grey?&style=for-the-badge&logo=scikit-learn"/> <img src="https://img.shields.io/badge/Flask-grey?&style=for-the-badge&logo=flask"/>  
+<img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/>  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-130654?&style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-%233294C7?&style=for-the-badge&logo=scikit-learn"/>  <img src="https://img.shields.io/badge/Flask-grey?&style=for-the-badge&logo=flask"/>  
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
