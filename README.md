@@ -6,9 +6,9 @@
  <img align="right" alt="png" src="https://user-images.githubusercontent.com/46066018/121811092-d963ab00-cc80-11eb-850f-fe900240a1c0.png" width="450" height="410" />
 
 
-- 🔭 I’m currently pursuing **Bachelors in Computer Science and Engineering (Third Year)** from Kpr institute of engineering and technology at coimbatore.
+- 🔭 I’m currently pursuing **Bachelors in Computer Science and Engineering (Final Year)** from Kpr institute of engineering and technology at coimbatore.
 
-- 🌱 I’m currently learning from **kaggle**...
+- 🌱 I’m currently learning from **kaggle**
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
