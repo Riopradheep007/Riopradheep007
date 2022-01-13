@@ -66,7 +66,7 @@
 </p>
 
  
- ## Front End Skills
+ ## 📡 Front End Skills
  <p align="center">
 
  <img src="https://user-images.githubusercontent.com/46066018/149352395-944c7da9-7879-4a4a-9fa6-4c4676b607cd.png" width=50 height=50/>
