@@ -68,7 +68,8 @@
  
  ## Front End Skills
  <p align="center">
- 
+
+ <img src="https://user-images.githubusercontent.com/46066018/149352395-944c7da9-7879-4a4a-9fa6-4c4676b607cd.png" width=50 height=50/>
  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
  <img src = 'https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
