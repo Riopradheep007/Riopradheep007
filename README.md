@@ -19,7 +19,8 @@
 
 - 👯 I'm open for collaborations in **Data Science** and **Machine Learning** domains..
 
-- 💻 Currently, I am a Full Stack  Intern at  DigitalSoft  
+- 💻 Currently, I am a Full Stack  Intern at  DigitalSoft  <img src="https://user-images.githubusercontent.com/46066018/149355615-08fa5f60-7f7b-41c9-88ca-374af5091e59.jpg" width=40 height=40 />
+
 
 - 🎯 Goal (2022): Before this year's end, I will become a highly skilled full-stack developer.
 
