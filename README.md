@@ -11,16 +11,17 @@
 - 🌱 I’m currently learning from **kaggle**
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
+  - 📊 Full Stack 
+  - 🤖 Machine Learning 
   - 🔤 DeepLearning
   - 🖼 Computer Vision
-  - 🤖 Natural Language Processing
+
 
 - 👯 I'm open for collaborations in **Data Science** and **Machine Learning** domains..
 
-- 💻 I'm looking for an **internship** in **DataScience** domain..
+- 💻 Currently, I am a Full Stack  Intern at  DigitalSoft  
 
-- 🎯 Goal (2021): **Contribute** openly to **Data Science and Machine Learning community**..
+- 🎯 Goal (2022): Before this year's end, I will become a highly skilled full-stack developer.
 
 - 📌 Scroll down to see my **Pinned Repositories**.
 
