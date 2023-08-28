@@ -13,18 +13,6 @@
   - 📊 Full Stack Developement.
 
 
-- 👯 I'm open for collaborations in **Data Science** and **Machine Learning** domains..
-- 💻 Currently, I am a Full Stack  Intern at  DigitalSoft ,
-- 🎯 Goal (2022): Before this year's end, I will become a highly skilled full-stack developer,
-- 📌 Scroll down to see my **Pinned Repositories**.
-
-
-
-## A little about me...  
-   An independent and self-motivated student with proven ability and experienced in developing web application using Flask and Data Science projects with <b>DataStructures and algorithm<b>.
-<br/>
-
-
 
 ### 📫 How to reach me...
 <p align="center">
