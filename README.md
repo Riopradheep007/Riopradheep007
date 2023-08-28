@@ -11,10 +11,7 @@
 - 🌱 I’m currently learning from **kaggle**
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Full Stack 
-  - 🤖 Machine Learning 
-  - 🔤 DeepLearning
-  - 🖼 Computer Vision
+  - 📊 Full Stack Developement.
 
 
 - 👯 I'm open for collaborations in **Data Science** and **Machine Learning** domains..
