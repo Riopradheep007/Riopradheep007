@@ -39,25 +39,16 @@
 
 
 
-## 👨‍💻 I can code in...
+## Technical Skills
 <p align="center">
  
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=gold"/>
- <img src = 'https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'>
+<img src="https://github.com/Riopradheep007/Riopradheep007/assets/46066018/ffe627f9-4632-40a3-b6ae-d9a93a55763a" width="50" height="50">
+ <img src = "https://github.com/Riopradheep007/Riopradheep007/assets/46066018/b3a50126-52be-4c49-84c9-c03d2c283ff4" width="50" height="50">
+ <img src = "https://github.com/Riopradheep007/Riopradheep007/assets/46066018/ded21741-b679-402d-bd3b-033774cc0912" width="50" height="50">
+ <img src = "https://github.com/Riopradheep007/Riopradheep007/assets/46066018/1bc0c218-0620-463b-8fbf-a9e990bf91ea" width="50" height="50">
 
 </p>
 
  
- ## 📡 Front End Skills
- <p align="center">
-
- <img src="https://user-images.githubusercontent.com/46066018/149357637-2489413a-bbad-4145-97cc-1ad0062cb4d0.png" width=50 height=50/>
- <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
- <img src = 'https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
- <img src = 'https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white'>
-
-</p>
-</details>
 
 
