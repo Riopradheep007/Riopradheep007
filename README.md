@@ -10,9 +10,9 @@
 ### 📫 How to reach me...
 <p align="start">
 <a href="mailto:pradheep1341@gmail.com">
-         <img alt="Qries" src="https://user-images.githubusercontent.com/46066018/121809805-ec27b100-cc7b-11eb-9422-b9bfeffa724e.png"
+         <img alt="Qries" src="https://github.com/Riopradheep007/Riopradheep007/assets/46066018/28da3d26-6240-4e38-97ef-e53367481dca"
          width="50" height="50">
-      </a>   
+      </a> 
  
  
  
@@ -31,6 +31,7 @@
  <img src="https://github.com/Riopradheep007/Riopradheep007/assets/46066018/ffe627f9-4632-40a3-b6ae-d9a93a55763a" width="50" height="50">
  <img src = "https://github.com/Riopradheep007/Riopradheep007/assets/46066018/7bb41f9a-8098-417c-b76f-02e2e9a4d3959" width="50" height="50">
   <img src = "https://github.com/Riopradheep007/Riopradheep007/assets/46066018/8402ea22-0e33-43ac-afc2-3451260a1583" width="50" height="50">
+  <img src = "https://github.com/Riopradheep007/Riopradheep007/assets/46066018/304de958-861d-4f2d-8818-6ccf5696a5f3" width="50" height="50">
  <img src = "https://github.com/Riopradheep007/Riopradheep007/assets/46066018/b3a50126-52be-4c49-84c9-c03d2c283ff4" width="50" height="50">
  <img src = "https://github.com/Riopradheep007/Riopradheep007/assets/46066018/ded21741-b679-402d-bd3b-033774cc0912" width="50" height="50">
  <img src = "https://github.com/Riopradheep007/Riopradheep007/assets/46066018/1bc0c218-0620-463b-8fbf-a9e990bf91ea" width="50" height="50">
