@@ -1,9 +1,7 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there!, I am <a href="https://github.com/Riopradheep007">Pradheep</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
-
-
- <img align="right" alt="png" src="https://user-images.githubusercontent.com/46066018/121811092-d963ab00-cc80-11eb-850f-fe900240a1c0.png" width="450" height="410" />
+ <img align="right" alt="png" src="https://github.com/Riopradheep007/Riopradheep007/assets/46066018/9085fa51-d4a6-410c-8384-74df5d2d742f" width="450" height="410" />
 
 
 - 🔭  I am a highly passionate about building new features in web application. With a background in UI development using **Angular**, API development using **ASP.NET Core**, and  database in  **MSSQL**, I have successfully designed many new modules and implemented innovative solutions  for businesses across various industries.
