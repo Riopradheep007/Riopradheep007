@@ -15,7 +15,7 @@
 
 
 ### 📫 How to reach me...
-<p align="center">
+<p align="start">
 <a href="mailto:pradheep1341@gmail.com">
          <img alt="Qries" src="https://user-images.githubusercontent.com/46066018/121809805-ec27b100-cc7b-11eb-9422-b9bfeffa724e.png"
          width="50" height="50">
@@ -33,7 +33,7 @@
 
 
 ## Technical Skills
-<p align="center">
+<p align="start">
  
 <img src="https://github.com/Riopradheep007/Riopradheep007/assets/46066018/ffe627f9-4632-40a3-b6ae-d9a93a55763a" width="50" height="50">
  <img src = "https://github.com/Riopradheep007/Riopradheep007/assets/46066018/b3a50126-52be-4c49-84c9-c03d2c283ff4" width="50" height="50">
